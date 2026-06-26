@@ -1,4 +1,4 @@
-# Seismic Slope Displacement Toolkit (main branch edit)
+# Seismic Slope Displacement Scripts (branch edit)
 Compilation of python codes to calculate seismic slope displacement based on semi-empirical approaches
 
 ## Status
